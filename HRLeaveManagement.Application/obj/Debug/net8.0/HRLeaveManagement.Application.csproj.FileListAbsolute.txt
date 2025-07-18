@@ -1,0 +1,15 @@
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net8.0\HRLeaveManagement.Application.deps.json
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net8.0\HRLeaveManagement.Application.dll
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net8.0\HRLeaveManagement.Application.pdb
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net8.0\HRLeaveManagement.Domain.dll
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\bin\Debug\net8.0\HRLeaveManagement.Domain.pdb
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.csproj.AssemblyReference.cache
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.AssemblyInfoInputs.cache
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.AssemblyInfo.cs
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveM.9588DBC1.Up2Date
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.dll
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\refint\HRLeaveManagement.Application.dll
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\HRLeaveManagement.Application.pdb
+D:\Downloads\ASP.NET Core - SOLID and Clean Architecture\Projects\HR-LeaveManagement.Clean\HRLeaveManagement.Application\obj\Debug\net8.0\ref\HRLeaveManagement.Application.dll
